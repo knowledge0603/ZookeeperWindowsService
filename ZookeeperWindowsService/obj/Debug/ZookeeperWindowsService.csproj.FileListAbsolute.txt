@@ -1,0 +1,16 @@
+G:\work\20201116\ZookeeperWindowsService\ZookeeperWindowsService\obj\Debug\ZookeeperWindowsService.csprojAssemblyReference.cache
+G:\work\20201116\ZookeeperWindowsService\ZookeeperWindowsService\obj\Debug\ZookeeperWindowsService.csproj.CoreCompileInputs.cache
+G:\work\20201116\ZookeeperWindowsService\ZookeeperWindowsService\bin\Debug\ZookeeperWindowsService.exe.config
+G:\work\20201116\ZookeeperWindowsService\ZookeeperWindowsService\bin\Debug\ZookeeperWindowsService.exe
+G:\work\20201116\ZookeeperWindowsService\ZookeeperWindowsService\bin\Debug\ZookeeperWindowsService.pdb
+G:\work\20201116\ZookeeperWindowsService\ZookeeperWindowsService\obj\Debug\ZookeeperWindowsService.exe
+G:\work\20201116\ZookeeperWindowsService\ZookeeperWindowsService\obj\Debug\ZookeeperWindowsService.pdb
+G:\work\20201116\ZookeeperWindowsService\bin\Debug\ZookeeperWindowsService.exe.config
+G:\work\20201116\ZookeeperWindowsService\bin\Debug\ZookeeperWindowsService.exe
+G:\work\20201116\ZookeeperWindowsService\bin\Debug\ZookeeperWindowsService.pdb
+G:\work\20201116\ZookeeperWindowsService\obj\Debug\ZookeeperWindowsService.csprojAssemblyReference.cache
+G:\work\20201116\ZookeeperWindowsService\obj\Debug\ZookeeperWindowsService.csproj.CoreCompileInputs.cache
+G:\work\20201116\ZookeeperWindowsService\obj\Debug\ZookeeperWindowsService.exe
+G:\work\20201116\ZookeeperWindowsService\obj\Debug\ZookeeperWindowsService.pdb
+G:\work\20201116\ZookeeperWindowsService\obj\Debug\ZookeeperWindowsService.ProjectInstaller.resources
+G:\work\20201116\ZookeeperWindowsService\obj\Debug\ZookeeperWindowsService.csproj.GenerateResource.cache
